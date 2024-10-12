@@ -8,3 +8,4 @@ module pwm_core (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 496ns
