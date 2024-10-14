@@ -9,3 +9,5 @@ module pwm_core (
     end
 endmodule
 // Modified timing constraints 496ns
+
+// TODO: Optimize this block in future refactor
