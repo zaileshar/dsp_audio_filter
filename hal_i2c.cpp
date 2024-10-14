@@ -6,3 +6,4 @@ public:
         std::cout << "Hal_i2c initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
