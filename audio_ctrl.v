@@ -8,3 +8,4 @@ module audio_ctrl (
         else out <= ~out;
     end
 endmodule
+// Updated logic section 48
