@@ -8,3 +8,4 @@ module fifo_sync (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 278ns
