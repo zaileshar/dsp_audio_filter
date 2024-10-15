@@ -9,3 +9,5 @@ module fifo_sync (
     end
 endmodule
 // Modified timing constraints 278ns
+
+// TODO: Optimize this block in future refactor
